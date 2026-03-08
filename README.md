@@ -1,0 +1,1 @@
+# Check Cased Project\n\n## Description\nA project for checking and depositing checks.\n\n## Installation\nClone the repository and install dependencies.\n\n## Usage\nRun the application and access the endpoints.\n

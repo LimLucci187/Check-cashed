@@ -1,0 +1,1 @@
+const validateCheck = (check: CheckAnalysisResult) => {\n  // validation logic here\n};\n\nexport default validateCheck;

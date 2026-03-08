@@ -1,0 +1,1 @@
+import React from 'react';\n\nconst CheckDeposit = () => {\n  return ( <div>Check Deposit Component</div> );\n};\n\nexport default CheckDeposit;

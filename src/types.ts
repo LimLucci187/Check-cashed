@@ -1,0 +1,1 @@
+export interface CheckAnalysisResult {\n  checkId: string;\n  analyzedAt: Date;\n  valid: boolean;\n} \n\nexport interface DepositSubmission {\n  checkId: string;\n  amount: number;\n  submittedAt: Date;\n}
