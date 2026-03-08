@@ -1,1 +1,7 @@
-import React from 'react';\n\nconst CheckDeposit = () => {\n  return ( <div>Check Deposit Component</div> );\n};\n\nexport default CheckDeposit;
+import React from 'react';
+
+const CheckDeposit = () => {
+  return ( <div>Check Deposit Component</div> );
+};
+
+export default CheckDeposit;
