@@ -1,1 +1,5 @@
-const validateCheck = (check: CheckAnalysisResult) => {\n  // Validate the check analysis result before processing a deposit\n};\n\nexport default validateCheck;
+const validateCheck = (check: CheckAnalysisResult) => {
+  // Validate the check analysis result before processing a deposit
+};
+
+export default validateCheck;
