@@ -1,1 +1,1 @@
-const validateCheck = (check: CheckAnalysisResult) => {\n  // validation logic here\n};\n\nexport default validateCheck;
+const validateCheck = (check: CheckAnalysisResult) => {\n  // validation no logic here\n};\n\non-nexport default validateCheck;
