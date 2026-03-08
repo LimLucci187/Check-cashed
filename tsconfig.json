@@ -1,1 +1,10 @@
-{\n  "compilerOptions": {\n    "target": "es6",\n    "module": "commonjs",\n    "strict": true,\n    "esModuleInterop": true\n  }\n}
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "skipLibCheck": true
+  }
+}

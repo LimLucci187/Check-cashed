@@ -1,1 +1,7 @@
-import { Request, Response } from 'express';\n\nconst getCheckDeposit = (req: Request, res: Response) => {\n  // API endpoint logic here\n};\n\nexport { getCheckDeposit };
+import { Request, Response } from 'express';
+
+const getCheckDeposit = (req: Request, res: Response) => {
+  // API endpoint logic here
+};
+
+export { getCheckDeposit };

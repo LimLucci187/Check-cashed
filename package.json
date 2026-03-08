@@ -1,1 +1,11 @@
-{\n  "dependencies": {\n    "express": "^4.17.1",\n    "typescript": "^4.1.2",\n    "react": "^17.0.1"\n  }\n}
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^17.0.1",
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/react": "^19.2.14"
+  }
+}
