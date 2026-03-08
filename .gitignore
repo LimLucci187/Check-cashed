@@ -1,27 +1,4 @@
-# Create directories
-mkdir -p config deposits services tests media
-
-# Create __init__.py files
-touch config/__init__.py deposits/__init__.py services/__init__.py tests/__init__.py
-
-# Copy all the file contents I provided into their respective locations
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Copy and edit environment
-cp .env.example .env
-# Edit .env with your database info
-
-# Run migrations
-python manage.py migrate
-
-# Create superuser
-python manage.py createsuperuser
-
-# Start server
-python manage.py runserver
+node_modules/
+dist/
+*.js.map
+.env
